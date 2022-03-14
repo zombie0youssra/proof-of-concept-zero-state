@@ -7,10 +7,10 @@
 <!-- Schrijf hier de User Story waar de Zero State over gaat-->
 
 ## Schetsen
-<!-- Toon de schetsen -->
+<!-- Toon de variaties die je hebt geschetst -->
 
-## 3 detail uitwerkingen met uitleg van de visuele hierarchie
-<!-- Leg de visuele hierarchie uit -->
+## 3 ontwerpen
+<!-- Toon de 3 ontwerpen die je in detai hebt uitgewerkt, leg de Visuele Hieratchie uit en noteer de feedback van de opdrachtgever -->
 
 
 
