@@ -17,7 +17,7 @@ Leren om Visuele Hierarchie toe te passen voor een goede Zero State waardoor een
 
 ## Werkwijze
 
-Opdracht: Zero State met Visuele Hiërarchie ontwerpen<img width="756" alt="image" src="https://user-images.githubusercontent.com/1391509/158122684-6f52676d-dea6-4e85-aa94-3609e70312b4.png">
+Opdracht: Zero State met Visuele Hiërarchie ontwerpen.
 
 Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
