@@ -38,9 +38,8 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 
 4. Maak 6 nieuwe schetsen van de Zero State in de viewport (Varieer met grootte, witruimte, positie op het scherm)
 5. Maak weer 6 schetsen, dit keer mag de gebruiker scrollen
-6. Hang al je schetsen op de muur en laat je schetsen beoordelen
-7. Werk de 3 beste ontwerpen in detail uit in Figma (of in CSS)
-8. Doe een Design Critique
+6. Werk de 3 beste ontwerpen in detail uit in Figma (of in CSS)
+7. Presenteer de ontwerpen aan de opdrachtgever tijdens het tussentijdse feedbackgesprek
 
 
 #### Materiaal ontwerpfase
