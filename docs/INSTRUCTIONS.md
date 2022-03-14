@@ -13,7 +13,7 @@ In het college S08W2-01-Zero-State wordt behandeld wat een Zero State is.
 
 ## Doel van deze opdracht
 
-Leren om Visuele HIerqrchie toe te passen voor eengeode Zero State waardoor een gebruiker weet waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
+Leren om Visuele Hierarchie toe te passen voor een goede Zero State waardoor een gebruiker weet waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
 
 ## Werkwijze
 
