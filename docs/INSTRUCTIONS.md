@@ -1,190 +1,66 @@
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+# Keep Uses in Control - Zero State
 
-# {Naam}
-
-{Beschrijving van de leertaak}.
+Zero State ontwerpen
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij sprint 8 "Keep users in Control". Dit is een deeltaak die je individueel uitvoert.
+
+In het college S08W2-01-Zero-State wordt behandeld wat een Zero State is.
 
 
-## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
-
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
-
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Dinsdag, woensdag of donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 3</b></td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
+Leren om Visuele HIerqrchie toe te passen voor eengeode Zero State waardoor een gebruiker weet waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+Opdracht: Zero State met Visuele Hiërarchie ontwerpen<img width="756" alt="image" src="https://user-images.githubusercontent.com/1391509/158122684-6f52676d-dea6-4e85-aa94-3609e70312b4.png">
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
-
-### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal analysefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
+Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+
+Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoek op deze pagina? Waar is het? Hoe kan ik mijn taak volbrengen? In de Zero State van een website maak je dit duidelijk. Met Visuele Hierarchie vertel je de gebruiker waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
+
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/1391509/158123865-61c9c075-bc54-44bb-b556-9b2e8568c23e.png">
+
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Schets een nette Zero State van jouw opdracht. Schets alleen de viewport
+2. Schrijf naast de schets: De User Story. Wie is de gebruiker? Wat komt de gebruiker op de pagina doen?
+3. Bepaal de visuele hierarchie van jouw Zero State (1: Most Newsworthy info, 2: Important details, 3: Other)
+    <img width="658" alt="image" src="https://user-images.githubusercontent.com/1391509/158123801-a4324c80-13cd-439a-8b7e-e5eab5df4151.png">
+
+4. Maak 6 nieuwe schetsen van de Zero State in de viewport (Varieer met grootte, witruimte, positie op het scherm)
+5. Maak weer 6 schetsen, dit keer mag de gebruiker scrollen
+6. Hang al je schetsen op de muur en laat je schetsen beoordelen
+7. Werk de 3 beste ontwerpen in detail uit in Figma (of in CSS)
+8. Doe een Design Critique
+
 
 #### Materiaal ontwerpfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Principles of User Interface Design 16 - A crucial moment: the zero state](http://bokardo.com/principles-of-user-interface-design/)
+- [Visual Hierarchy: How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
+- [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 
 </details>
 
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 
-<details>
-<summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal bouwfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal integratiefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
 
 ## Criteria
-*Definitions of done*
-
-{beschrijf de definitions of done}
-
-Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van de student verwacht, welke mindset is nodig. Succes ervaren.
-
-Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
-
-Focus sprint 3 - De focus in deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Je maakt iets voor een mens. Praten met een mens, doorvragen, protoypen en testen en resultaten gebruiken.
-
-Focus sprint 4 - De focus in deze sprint ligt op het toepassen van een huisstijl en maken van formulieren. Living styleguide en Atomic design, Animeren, Toegankelijke formulieren.
-
-Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
-
-Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.
 
 Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
 
-Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. Je hebt data, die ga je laden en tonen, zodat iemand daar iets mee kan doen.
-dat betekent veel voor de interfcace, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart.
 
-Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren				
+Deze leertaak hoort bij het gedragscriterium:
 
-Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie, ook als er geen verbinding is met het internet.
+S: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.
 
-Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. Job Stories, wireflowing, realtime en data management.
-
-Focus sprint 12 - De focus van deze sprint ligt op werkwijze en samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. Iteratief (samen) werken: prototypen en testen om een concept te realiseren.
-
-
+P: Schetst om gedachten en processen te verkennen.
