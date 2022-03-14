@@ -63,3 +63,11 @@ Deze leertaak hoort bij het gedragscriterium:
 S: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.
 
 P: Schetst om gedachten en processen te verkennen.
+
+Deze opdracht is done als:
+
+- [ ] Er zijn meerdere schetsen van een Zero State gemaakt waarin is geexperimenteerde met Visuele Hierarchie 
+- [ ] Er zijn 3 ontwerpen in detail uitgewerkt in Figma (of in CSS)
+- [ ] De opdrachtgever heeft feedback gegeven op de ontwerpen
+- [ ] De schetsen en uitgewerkte ontwerpen zijn gedocumenteerd in de Readme van de leertaak
+
