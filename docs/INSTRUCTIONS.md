@@ -1,5 +1,5 @@
 
-# Keep Uses in Control - Zero State
+# Keep Users in Control - Zero State
 
 Zero State ontwerpen
 
