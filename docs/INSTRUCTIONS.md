@@ -5,9 +5,9 @@ Zero State ontwerpen
 
 ## Context
 
-Deze leertaak hoort bij sprint 8 "Keep users in Control". Dit is een deeltaak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 12 _Proof of Concept_. Dit is een deeltaak die je individueel of in een team uitvoert.
 
-In het college S08W2-01-Zero-State wordt behandeld wat een Zero State is.
+In het college S12W2-02-Zero-State wordt behandeld wat een Zero State is.
 
 
 
@@ -55,19 +55,19 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 
 ## Criteria
 
-Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
-
+Focus sprint 12 - Je gebruikt API's en databases voor het ontwerpen en ontwikkelen van gebruiksvriendelijke interactieve toepassingen voor het web.
 
 Deze leertaak hoort bij het gedragscriterium:
 
-S: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.
+P: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
 
-P: Schetst om gedachten en processen te verkennen.
+P: Je schetst om gedachten en processen te verkennen ~~en abstracte begrippen over te brengen~~.
 
 Deze opdracht is done als:
 
 - [ ] Er zijn meerdere schetsen van een Zero State gemaakt waarin is geexperimenteerde met Visuele Hierarchie 
 - [ ] Er zijn 3 ontwerpen in detail uitgewerkt in Figma, XD, Sketch, ... (of in CSS)
-- [ ] De opdrachtgever heeft feedback gegeven op de ontwerpen
 - [ ] De schetsen en uitgewerkte ontwerpen zijn gedocumenteerd in de Readme van de leertaak
+- [ ] De opdrachtgever heeft feedback gegeven op de ontwerpen
+
 
