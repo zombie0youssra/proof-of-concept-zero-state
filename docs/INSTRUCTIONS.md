@@ -1,7 +1,7 @@
 
 # Keep Users in Control - Zero State
 
-Zero State ontwerpen
+Zero State ontwerpen voor een data driven online concept voor een opdrachtgever
 
 ## Context
 
