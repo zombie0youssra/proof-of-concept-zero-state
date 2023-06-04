@@ -9,6 +9,11 @@ Deze leertaak hoort bij sprint 12 _Proof of Concept_. Dit is een deeltaak die je
 
 In het college S12W2-02-Zero-State wordt behandeld wat een Zero State is.
 
+Deze deeltaak hoort bij de leertaak:
+- [
+proof-of-concept](https://github.com/fdnd-task/proof-of-concept) 
+
+
 
 
 ## Doel van deze opdracht
