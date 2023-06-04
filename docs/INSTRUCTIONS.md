@@ -36,11 +36,9 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 1. Schets een nette Zero State van jouw opdracht. Schets alleen de viewport.
 2. Schrijf naast de schets: De User Story. Wie is de gebruiker? Wat komt de gebruiker op de pagina doen?
 3. Bepaal de visuele hierarchie van jouw Zero State (1: Most Newsworthy info, 2: Important details, 3: Other)
-    <img width="658" alt="image" src="https://user-images.githubusercontent.com/1391509/158123801-a4324c80-13cd-439a-8b7e-e5eab5df4151.png">
-
 4. Maak 6 nieuwe schetsen van de Zero State in de viewport (Varieer met grootte, witruimte, positie op het scherm)
 5. Maak weer 6 schetsen, dit keer mag de gebruiker scrollen
-6. Werk de 3 beste ontwerpen in detail uit in Figma, XD, Sketch, ...  (of in CSS)
+6. Werk de 3 beste ontwerpen in detail uit in Figma, XD, Sketch, ...  (of in HTML, CSS en/of JS)
 7. Presenteer de ontwerpen aan de opdrachtgever tijdens het tussentijdse feedbackgesprek
 
 
