@@ -33,9 +33,6 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 <img width="827" alt="image" src="https://user-images.githubusercontent.com/1391509/158123865-61c9c075-bc54-44bb-b556-9b2e8568c23e.png">
 
 
-<details>
-<summary>Aanpak</summary>
-
 1. Schets een nette Zero State van jouw opdracht. Schets alleen de viewport.
 2. Schrijf naast de schets: De User Story. Wie is de gebruiker? Wat komt de gebruiker op de pagina doen?
 3. Bepaal de visuele hierarchie van jouw Zero State (1: Most Newsworthy info, 2: Important details, 3: Other)
@@ -52,10 +49,6 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 - [Principles of User Interface Design 16 - A crucial moment: the zero state](http://bokardo.com/principles-of-user-interface-design/)
 - [Visual Hierarchy: How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
-
-</details>
-
-
 
 
 ## Criteria
