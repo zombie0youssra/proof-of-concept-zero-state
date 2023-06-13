@@ -18,7 +18,7 @@ proof-of-concept](https://github.com/fdnd-task/proof-of-concept)
 
 ## Doel van deze opdracht
 
-Leren om Visuele Hierarchie toe te passen voor een goede Zero State waardoor een gebruiker weet waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
+Leren een Zero State te ontwerpen met visuele hiërarchie, zodat gebruikers weten waar ze moeten kijken en welke dingen op het scherm belangrijk zijn. 
 
 ## Werkwijze
 
