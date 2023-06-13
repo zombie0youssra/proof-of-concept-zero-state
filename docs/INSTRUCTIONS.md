@@ -62,7 +62,7 @@ P: Je schetst om gedachten en processen te verkennen ~~en abstracte begrippen ov
 Deze opdracht is done als:
 
 - [ ] Er zijn meerdere schetsen van een Zero State gemaakt waarin is geexperimenteerde met Visuele Hierarchie 
-- [ ] Er zijn 3 ontwerpen in detail uitgewerkt in Figma, XD, Sketch, ... (of in CSS)
+- [ ] Er zijn 3 ontwerpen in detail uitgewerkt
 - [ ] De schetsen en uitgewerkte ontwerpen zijn gedocumenteerd in de Readme van de leertaak
 - [ ] De opdrachtgever heeft feedback gegeven op de ontwerpen
 
