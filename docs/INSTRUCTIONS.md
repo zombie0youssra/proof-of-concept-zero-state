@@ -38,7 +38,7 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 3. Bepaal de visuele hierarchie van de Zero State (1: Most Newsworthy info, 2: Important details, 3: Other). Gebruik het artikel [How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
 4. Maak 6 nieuwe schetsen van de Zero State in de viewport Varieer met grootte, witruimte, positie op het scherm. Gebruik het artikel [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 5. Bespreek de schetsen met een klasgenoot, vraag: "wat denk je dat je kan doen op deze website?", laat je klasgenoot persoon hardop denken.
-6. Werk de 3 beste ontwerpen in detail uit in Coded (HTML, CSS en/of JS)
+6. Werk de 3 beste ontwerpen in detail uit in Code (HTML, CSS en/of JS)
 7. Presenteer de ontwerpen aan de opdrachtgever tijdens het tussentijdse feedbackgesprek
 
 
