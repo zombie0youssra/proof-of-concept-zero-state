@@ -33,12 +33,12 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 <img width="827" alt="image" src="https://user-images.githubusercontent.com/1391509/158123865-61c9c075-bc54-44bb-b556-9b2e8568c23e.png">
 
 
-1. Schets een nette Zero State van jouw opdracht. Schets alleen de viewport.
-2. Schrijf naast de schets: De User Story. Wie is de gebruiker? Wat komt de gebruiker op de pagina doen?
-3. Bepaal de visuele hierarchie van jouw Zero State (1: Most Newsworthy info, 2: Important details, 3: Other)
-4. Maak 6 nieuwe schetsen van de Zero State in de viewport (Varieer met grootte, witruimte, positie op het scherm)
-5. Maak weer 6 schetsen, dit keer mag de gebruiker scrollen
-6. Werk de 3 beste ontwerpen in detail uit in Figma, XD, Sketch, ...  (of in HTML, CSS en/of JS)
+1. Schets eerst een nette [Zero State](http://bokardo.com/principles-of-user-interface-design/) van jouw opdracht. Schets alleen de viewport.
+2. Schrijf naast de schets: Wie is de gebruiker? Wat komt de gebruiker op de pagina doen?
+3. Bepaal de visuele hierarchie van de Zero State (1: Most Newsworthy info, 2: Important details, 3: Other) geruik het artikel [How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
+4. Maak 6 nieuwe schetsen van de Zero State in de viewport Varieer met grootte, witruimte, positie op het scherm, gebruik het artikel [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
+5. Bespreek de schetsen met een klasgenoot, vraag: "wat denk je dat je kan doen op deze website?", laat je klasgenoot persoon hardop denken.
+6. Werk de 3 beste ontwerpen in detail uit in Coded (HTML, CSS en/of JS)
 7. Presenteer de ontwerpen aan de opdrachtgever tijdens het tussentijdse feedbackgesprek
 
 
